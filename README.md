@@ -3,11 +3,11 @@
 Install dependencies:
 
 ```shell
-yarn
+npm install --force
 ```
 
 Run script that queries Ribbon short position and get the timestamp when they were minted
 
 ```shell
-yarn hardhat run scripts/queryRibbon.ts 
+npx hardhat run scripts/queryRibbon.ts 
 ```
