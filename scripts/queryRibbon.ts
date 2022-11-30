@@ -31,7 +31,6 @@ export const getRibbonShortPositions = (first: number | undefined, vaultAddress:
         depositAmount
         withdrawAmount
         loss
-        trades
       }
     }
     `
