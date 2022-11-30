@@ -1,0 +1,36 @@
+{
+  "name": "hardhat-project",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^2.0.0",
+    "hardhat": "^2.12.2"
+  },
+  "dependencies": {
+    "@apollo/client": "^3.7.1",
+    "@ethersproject/abi": "^5.7.0",
+    "@ethersproject/providers": "^5.7.2",
+    "@nomicfoundation/hardhat-chai-matchers": "^1.0.4",
+    "@nomicfoundation/hardhat-network-helpers": "^1.0.6",
+    "@nomiclabs/hardhat-ethers": "^2.2.1",
+    "@nomiclabs/hardhat-etherscan": "^3.1.2",
+    "@typechain/ethers-v5": "^10.1.1",
+    "@typechain/hardhat": "^6.1.4",
+    "@types/inquirer": "^9.0.3",
+    "@types/mocha": "^10.0.0",
+    "apollo-cache-inmemory": "^1.6.6",
+    "apollo-client": "^2.6.10",
+    "apollo-link-http": "^1.5.17",
+    "chai": "^4.3.7",
+    "cross-fetch": "^3.1.5",
+    "csv-writer": "^1.6.0",
+    "dayjs": "^1.11.6",
+    "ethers": "^5.7.2",
+    "graphql": "^16.6.0",
+    "hardhat-gas-reporter": "^1.0.9",
+    "inquirer": "^9.1.4",
+    "react": "^18.2.0",
+    "solidity-coverage": "^0.8.2",
+    "ts-node": "^10.9.1",
+    "typechain": "^8.1.1",
+    "typescript": "^4.9.3"
+  }
+}
